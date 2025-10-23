@@ -1,0 +1,15 @@
+---
+# Local/Vagrant variables for brainbreak
+
+# Domain configuration
+domain: brainbreak.local
+app_env: local
+
+# App configuration based on domain
+app_name: "{{ domain | replace('.', '-') }}"
+app_user: "{{ app_name }}"
+app_root: "/var/www/{{ app_name }}"
+
+# Nginx configuration
+nginx_use_ssl: false
+nginx_server_name: "{{ domain }}"

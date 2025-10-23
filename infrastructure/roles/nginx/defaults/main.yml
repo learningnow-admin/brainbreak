@@ -1,0 +1,5 @@
+---
+# Nginx role defaults
+nginx_use_ssl: true
+# domain: (required - no default)
+# certbot_email: (required if nginx_use_ssl is true)

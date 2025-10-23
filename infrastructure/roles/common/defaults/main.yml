@@ -1,0 +1,4 @@
+---
+# Common role defaults
+deploy_user: admin
+app_group: www-data

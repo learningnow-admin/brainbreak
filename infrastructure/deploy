@@ -1,0 +1,3 @@
+#!/bin/bash
+# Deploy brainbreak static site
+ansible-playbook -i inventories/$1/hosts playbook.yml

@@ -1,6 +1,6 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'https://bb.learningnow.com.au/'
 languageCode = 'en-us'
-title = 'Based Cooking'
+title = 'Brainbreak'
 theme = 'lugo'
 
 [params]

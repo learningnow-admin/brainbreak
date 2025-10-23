@@ -1,0 +1,4 @@
+---
+# Hugo role defaults
+# domain: (required - no default)
+# deploy_user: (inherited from common role)

@@ -1,0 +1,12 @@
+---
+- name: Setup Brainbreak Hugo Site
+  hosts: brainbreak
+  become: yes
+  vars:
+    deploy_user: bb
+    app_group: www-data
+    
+  roles:
+    - common
+    - nginx
+    - hugo

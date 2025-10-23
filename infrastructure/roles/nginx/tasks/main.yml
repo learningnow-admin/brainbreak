@@ -1,0 +1,63 @@
+---
+- name: Install Nginx and Certbot
+  apt:
+    name:
+      - nginx
+      - certbot
+      - python3-certbot-nginx
+    state: present
+
+
+- name: Remove default Nginx site
+  file:
+    path: /etc/nginx/sites-enabled/default
+    state: absent
+  notify: reload nginx
+
+- name: Disable server tokens
+  lineinfile:
+    path: /etc/nginx/nginx.conf
+    regexp: '# server_tokens off;'
+    line: 'server_tokens off;'
+  notify: reload nginx
+
+- name: Deploy minimal HTTP config for domain validation (SSL)
+  template:
+    src: nginx-site-http.conf.j2
+    dest: "/etc/nginx/sites-available/{{ domain }}"
+  when: nginx_use_ssl | default(true)
+  notify: reload nginx
+  tags: [configure]
+
+- name: Enable minimal HTTP config
+  file:
+    src: "/etc/nginx/sites-available/{{ domain }}"
+    dest: "/etc/nginx/sites-enabled/{{ domain }}"
+    state: link
+  when: nginx_use_ssl | default(true)
+  notify: reload nginx
+  tags: [configure]
+
+- name: Reload NGINX (after placing minimal config)
+  service:
+    name: nginx
+    state: reloaded
+  when: nginx_use_ssl | default(true)
+  tags: [configure]
+
+- name: Obtain SSL certificate (cert-only mode)
+  command: >
+    certbot certonly --nginx -n --agree-tos
+    --email {{ certbot_email }}
+    -d {{ domain }}
+  register: certbot_result
+  failed_when: certbot_result.rc not in [0, 2]  # 0=success, 2=already up to date
+  when: nginx_use_ssl | default(true)
+  tags: [configure]
+
+- name: Deploy final nginx config
+  template:
+    src: "nginx-site-{{ 'ssl' if nginx_use_ssl|default(true) else 'no-ssl' }}.conf.j2"
+    dest: "/etc/nginx/sites-available/{{ domain }}"
+  notify: reload nginx
+  tags: [configure]

@@ -1,0 +1,79 @@
+---
+- name: Create temporary directory for Hugo download
+  tempfile:
+    state: directory
+  register: hugo_temp_dir
+
+- name: Download Hugo binary
+  get_url:
+    url: "https://github.com/gohugoio/hugo/releases/download/v0.138.0/hugo_0.138.0_linux-amd64.tar.gz"
+    dest: "{{ hugo_temp_dir.path }}/hugo.tar.gz"
+    mode: '0644'
+
+- name: Extract Hugo binary
+  unarchive:
+    src: "{{ hugo_temp_dir.path }}/hugo.tar.gz"
+    dest: "{{ hugo_temp_dir.path }}"
+    remote_src: yes
+
+- name: Install Hugo binary to /usr/local/bin
+  copy:
+    src: "{{ hugo_temp_dir.path }}/hugo"
+    dest: /usr/local/bin/hugo
+    mode: '0755'
+    remote_src: yes
+
+- name: Verify Hugo installation
+  command: /usr/local/bin/hugo version
+  register: hugo_version
+  changed_when: false
+
+- name: Display Hugo version
+  debug:
+    msg: "{{ hugo_version.stdout }}"
+
+- name: Create required directories
+  file:
+    path: "{{ item }}"
+    state: directory
+    owner: "{{ deploy_user }}"
+    group: "{{ deploy_user }}"
+    mode: '0755'
+  loop:
+    - "/home/{{ deploy_user }}/repo"
+    - "/home/{{ deploy_user }}/{{ domain }}"
+    - "/home/{{ deploy_user }}/hugocache"
+
+- name: Ensure /var/www exists
+  file:
+    path: /var/www
+    state: directory
+    mode: '0755'
+
+- name: Remove existing lugo directory if it exists
+  file:
+    path: /var/www/lugo
+    state: absent
+
+- name: Clone Lugo theme
+  git:
+    repo: https://github.com/lukesmithxyz/lugo.git
+    dest: /var/www/lugo
+    version: master
+
+- name: Clone brainbreak repository
+  git:
+    repo: https://github.com/learningnow-admin/brainbreak.git
+    dest: "/home/{{ deploy_user }}/repo"
+    version: main
+  become_user: "{{ deploy_user }}"
+
+- name: Build initial Hugo site
+  command: >
+    /usr/local/bin/hugo -s /home/{{ deploy_user }}/repo 
+    -t /var/www/lugo 
+    -d /home/{{ deploy_user }}/{{ domain }}/ 
+    --cacheDir /home/{{ deploy_user }}/hugocache
+  become_user: "{{ deploy_user }}"
+  args:
+    creates: "/home/{{ deploy_user }}/{{ domain }}/index.html"

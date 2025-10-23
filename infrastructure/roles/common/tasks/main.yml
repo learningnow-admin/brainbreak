@@ -1,0 +1,32 @@
+---
+- name: Update apt cache
+  apt:
+    update_cache: yes
+    cache_valid_time: 3600
+
+- name: Install required packages
+  apt:
+    name:
+      - git
+      - curl
+      - tar
+      - ufw
+    state: present
+
+- name: Create deploy user if not exists
+  user:
+    name: "{{ deploy_user }}"
+    shell: /bin/bash
+    groups: "{{ app_group }}"
+    append: yes
+    state: present
+
+- name: Configure firewall
+  ufw:
+    rule: allow
+    port: "{{ item }}"
+    proto: tcp
+  loop:
+    - '22'
+    - '80'
+    - '443'
