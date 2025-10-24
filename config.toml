@@ -4,7 +4,7 @@ title = 'Brainbreak'
 theme = 'lugo'
 
 [params]
-  favicon = "/favicon.svg"
+  favicon = "/favicon.ico"
   stylesheet = "/style.css"
   indexarticles = 50
   taglist = true

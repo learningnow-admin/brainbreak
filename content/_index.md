@@ -68,11 +68,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
 {{< tagcloud >}}
 
-## About this site
-
-This website is a fork of [Based Cooking](https://based.cooking).
-
 ## It's easy to contribute!
 
-New brainbreaks can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
-We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
+New brainbreaks can be submitted [on Github](https://github.com/learningnow-admin/brainbreak).
+
+## About this site
+
+This website is a copy of [Based Cooking](https://based.cooking).

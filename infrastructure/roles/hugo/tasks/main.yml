@@ -77,3 +77,18 @@
   become_user: "{{ deploy_user }}"
   args:
     creates: "/home/{{ deploy_user }}/{{ domain }}/index.html"
+
+- name: Set permissions for nginx to access site files
+  file:
+    path: "{{ item }}"
+    mode: '0755'
+    state: directory
+  loop:
+    - "/home/{{ deploy_user }}"
+    - "/home/{{ deploy_user }}/{{ domain }}"
+
+- name: Set permissions for site files
+  file:
+    path: "/home/{{ deploy_user }}/{{ domain }}"
+    mode: '0755'
+    recurse: yes

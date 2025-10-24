@@ -1,11 +1,37 @@
+# HTTP to HTTPS redirect
 server {
-    listen 80;
-    listen [::]:80;
+    listen         80;
+    server_name    {{ domain }};
+    return         301 https://{{ domain }}$request_uri;
+    access_log     /var/log/nginx/{{ app_name }}.access.log;
+    error_log      /var/log/nginx/{{ app_name }}.error.log;
+}
+
+# HTTPS server
+server {
+    listen 443 ssl;
     server_name {{ domain }};
+    
+    ssl_certificate     /etc/letsencrypt/live/{{ domain }}/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/{{ domain }}/privkey.pem;
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_prefer_server_ciphers on;
+    ssl_ciphers 'EECDH+AESGCM:EDH+AESGCM:AES256+EECDH:AES256+EDH';
+    
+    # Security headers
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" always;
+    add_header X-Frame-Options "DENY" always;
+    add_header X-Content-Type-Options "nosniff" always;
+    add_header X-XSS-Protection "1; mode=block" always;
+    add_header Referrer-Policy "no-referrer-when-downgrade" always;
+    
     root /home/{{ deploy_user }}/{{ domain }};
     index index.html index.htm;
     
     location / {
         try_files $uri $uri/ =404;
     }
+    
+    access_log  /var/log/nginx/{{ app_name }}.access.log;
+    error_log   /var/log/nginx/{{ app_name }}.error.log;
 }

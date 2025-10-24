@@ -1,7 +1,7 @@
 ---
 title: "Example brainbreak title"
 date: 2021-03-11
-tags: ["fun", "example", "pasta"]
+tags: ["fun", "Energising" ]
 author: example
 ---
 

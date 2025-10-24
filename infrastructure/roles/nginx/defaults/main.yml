@@ -1,5 +1,10 @@
 ---
 # Nginx role defaults
+nginx_dir: /etc/nginx
+nginx_server_name: "{{ domain }}"
+nginx_sites_available: "{{ nginx_dir }}/sites-available/{{ domain }}"
+nginx_sites_enabled: "{{ nginx_dir }}/sites-enabled/{{ domain }}"
+nginx_letsencrypt_dir: "/etc/letsencrypt/live/{{ domain }}"
 nginx_use_ssl: true
 # domain: (required - no default)
 # certbot_email: (required if nginx_use_ssl is true)
