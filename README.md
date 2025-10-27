@@ -1,75 +1,105 @@
 # Based Brainbreak Website
 
-This is a simple brainbreak website where users can submit brainbreaks here for credit.
-There are no ads, trackers or cookies.
+A simple, ad-free website for sharing brain break activities. No trackers, no cookies, just helpful activities to energize and engage students.
 
-This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
+## What is a Brain Break?
 
-## Ways to contribute
-
-- By adding a brainbreak.
-- Create an image for the brainbreak if no nice picture already
-  exists. Submitted images should be small `.webp` files ideally less than 100K
-  or so.
-- Fix errors in brainbreaks or add minor improvements.
-
-## Rules for submission
-
-- Model submission files after [example.md](example.md). Put them in `content/`.
-- File names should be the name of the dish with words separated by hyphens
-  (`-`). Not underscores, and definitely not spaces.
-- The file needs to be `\n` terminated in unix-fashion (if you're on Linux you
-  don't need to care, it should be automatic).
-
-You may include a json file with your personal links/donation addresses in
-`data/authors/your-name.json`.
-
-See example (`data/authors/example.json`) for a model. You can include: `website`, `donate` (general donation link), `email` or crypto addresses as `btc`, `xmr` and `eth`.
-
-### Tags
-
-Remember to add tags to your brainbreak, but try to use tags already used by other brainbreaks.
-
-### Images
-
-Images are stored in `/pix`.
-
-Each brainbreak can have a title image at the top and perhaps several instructional
-images as absolutely necessary.
-
-Images should be in `.webp` format and with as small file size as possible. If
-you submit an image for say, `silent-chairs.md`, it should be added as
-`pix/silent-chairs.webp`.
-
-If you would like to add additional directional images,
-they should be numbered with two digits like: `pix/silent-chairs-01.webp`, etc.
-
-Note also that images should have links beginning with a slash in this use
-case, i.e. `/pix/...`.
-
-# Running this site locally
-
-git clone https://github.com/lukesmithxyz/based.cooking.git
-mkdir themes
-cd themes
-git clone https://github.com/lukesmithxyz/lugo.git
-hugo server --noHTTPCache
-
-GitHub Secrets settings
-Repository-level secrets → tied to a single repo.
-Go to your repo on GitHub → Settings → Secrets and variables → Actions → “New repository secret.”
-
-https://landchad.net/basic/nginx/
+Brain breaks are short mental or physical activities that help students refocus, energize, and prepare for learning. They typically last 3-10 minutes and can involve movement, games, puzzles, or relaxation exercises.
 
 ## Acknowledgement
 
-This website is a copy of [Based Cooking](https://based.cooking) which was created by [Luke Smith](https://lukesmith.xyz)
+This website is based on [Based Cooking](https://based.cooking) by [Luke Smith](https://lukesmith.xyz). The original source code is available [here](https://github.com/lukesmithxyz/based-cooking). The site uses Hugo with [this simple theme](https://github.com/lukesmithxyz/lugo).
+
+## How to Contribute
+
+There are three ways to help:
+
+1. **Add a brain break** - Share your favorite classroom activities
+2. **Add images** - Create simple illustrations for existing brain breaks
+3. **Fix errors** - Correct typos or improve instructions
+
+## Submitting a Brain Break
+
+### Quick Start
+
+1. Look at existing brain breaks in the `content/` folder for examples
+2. Create a new file following the naming format: `activity-name.md`
+3. Write clear, step-by-step instructions that teachers can read aloud
+4. Submit via GitHub (instructions below)
+
+### Writing Guidelines
+
+Your brain break should:
+
+- Use "we" language (e.g., "We're going to play...")
+- Include step-by-step instructions
+- Be clear enough to read word-for-word without improvisation
+- Use simple, concrete language
+
+### GitHub Submission Steps
+
+1. **Create a GitHub account** (if needed):
+
+   - Visit [github.com](https://github.com) and click "Sign up"
+
+2. **Fork this repository**:
+
+   - Go to [github.com/brainbreaks/brainbreak](https://github.com/brainbreaks/brainbreak)
+   - Click "Fork" in the top-right corner
+
+3. **Add your brain break**:
+
+   - Navigate to the `content/` folder in your fork
+   - Click "Add file" → "Create new file"
+   - Name it using hyphens: `my-brain-break.md`
+   - Copy the format from [example.md](example.md)
+
+4. **Commit your changes**:
+
+   - Write a brief commit message
+   - Click "Commit changes"
+
+5. **Submit a pull request**:
+   - Click "Pull requests" → "New pull request"
+   - Click "Create pull request"
+   - Add a title and description
+   - Submit for review
+
+### File Format Requirements
+
+- **Location**: All brain breaks go in the `content/` folder
+- **Naming**: Use lowercase with hyphens between words (e.g., `silent-chairs.md`)
+- **Format**: Follow the structure in [example.md](example.md)
+- **Line endings**: Unix-style (`\n`) - automatic on Linux/Mac
+
+### Tags
+
+Use existing tags when possible.
+
+### Images (Optional)
+
+- **Location**: `/pix` folder
+- **Format**: `.webp` for small file size (<100KB preferred)
+- **Naming**: Match your file name (e.g., `silent-chairs.webp`)
+- **Additional images**: Use two-digit numbering (`silent-chairs-01.webp`)
+- **Linking**: Use absolute paths (`/pix/filename.webp`)
+
+### Author Credit (Optional)
+
+To add your information:
+
+1. Create `data/authors/your-name.json`
+2. Include any of these fields:
+
+   - `website`
+   - `donate`
+   - `email`
+   - `btc`, `xmr`, `eth` (crypto addresses)
+
+3. In your brain break file, use: `author: your-name`
+
+See `data/authors/example.json` for the format.
 
 ## License
 
-This website and all its content is in the public domain.
-By submitting text or images or anything else to this repository,
-you waive any pretense of ownership to it,
-although you are welcome and recommended to give yourself credit
-at the bottom of a submitted page for you adding it
-(including personal or donation links).
+This website and all content is in the public domain. By submitting content, you waive ownership claims but are encouraged to credit yourself as the contributor.

@@ -1,13 +1,14 @@
 
 # Brainbreak Infrastructure
 
-## Production Deployment
 
-Deploy to production server:
-```bash
-cd infrastructure/
-./deploy prod
-```
+## Running this site locally
+git clone https://github.com/learningnow-admin/brainbreak 
+mkdir themes
+cd themes
+git clone https://github.com/lukesmithxyz/lugo.git
+hugo server --noHTTPCache
+
 
 ## Local Development
 ```bash
@@ -18,8 +19,14 @@ vagrant ssh         # Access the VM
 vagrant destroy     # Clean up when done
 ```
 
-## Manual Post-Setup Tasks
+## Production Deployment
+Deploy to production server:
+```bash
+cd infrastructure/
+./deploy prod
+```
 
+## Manual Post-Setup Tasks
 ### 1. Generate SSH Deploy Keys
 SSH into the server as root:
 ```bash
@@ -48,7 +55,6 @@ cat ~/.ssh/github_deploy_bb
 ```
 
 ### 2. Configure GitHub Secrets
-
 Go to your brainbreak repo: Settings → Secrets and variables → Actions
 
 1. Click "Repository secrets"
@@ -68,7 +74,3 @@ bb_port
 
 ### 3. Test the Setup
 Your GitHub Actions workflow should now work correctly with the `bb` user that Ansible creates.
-
-
-# Actions
-Settings → Actions → General → Allow all actions
