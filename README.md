@@ -1,10 +1,10 @@
 # Based Brainbreak Website
 
-A simple, ad-free website for sharing brain break activities. No trackers, no cookies, just helpful activities to energize and engage students.
+A simple, ad-free website for sharing brain break activities. No trackers, no cookies, just helpful activities to energise and engage students.
 
 ## What is a Brain Break?
 
-Brain breaks are short mental or physical activities that help students refocus, energize, and prepare for learning. They typically last 3-10 minutes and can involve movement, games, puzzles, or relaxation exercises.
+Brain breaks are short mental or physical activities that help students refocus, energise, and prepare for learning. They typically last 3-10 minutes and can involve movement, games, puzzles, or relaxation exercises.
 
 ## Acknowledgement
 
