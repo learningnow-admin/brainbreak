@@ -1,0 +1,273 @@
+---
+title: "Stand Up If ..."
+date: 2021-03-11
+tags: ["Energising", "Movement"]
+author: learningnow
+---
+We’re going to play a game called Stand Up If. Here’s how it works: Everyone starts seated. I’ll read out a statement. If a statement is true for you, you stand up. Look around, notice who else is standing, then sit back down. It’s a great way to learn more about each other. The game continues with new statements. Let’s see what we all have in common.
+
+
+Items
+- You have been stung by a bee, wasp, ant, jellyfish, or scorpion
+- You love riding a push bike, roller skates, skateboard, or surfboard
+- You like tea, coffee, hot chocolate, milkshake, smoothie, or other
+- You like country, pop, folk, rap, or hip-hop music
+- You enjoy playing music
+- You like comedy, romantic, thriller, or horror movies
+- You have ever ridden a roller coaster
+- You have ever tried using virtual reality
+- You have ever tried extreme sports
+- You have ever studied astronomy
+- You have ever hiked a mountain
+- You have ever gone sailing
+- You have been to the beach this year
+- You went camping this year
+- You have ever laughed so hard you cried
+- You think video games are educational
+- You think tomato sauce is the best sauce
+- You use an oven to cook food
+- You have ever gone rock climbing
+- You have ever gone zip lining
+- You have ever gone on a road trip
+- You have ever gone bungee jumping
+- You have ever been skiing or snowboarding
+- You have ever tried an escape room
+- You have broken a bone before
+- You have a dog, cat, bird, turtle, or snake
+- You have been on a boat
+- You have used a 3D printer
+- You have ever built a model aeroplane
+- You have ever used a machine to cut wood
+- You have danced in public
+- You have played music in public
+- You have sung in public
+- You have an opinion that you strongly believe in
+- You have ever used a sewing machine
+- You have ever ridden a bike
+- You have ever gone surfing
+- You like board games
+- You have ever been to a live concert
+- You have an older brother or sister
+- You have been overseas or interstate
+- You have helped cook dinner
+- You ate something gross this year
+- You have ever volunteered for a charity organisation
+- You have ever skydived
+- You like the smell of roses
+- You often feel misunderstood
+- You wear gloves during winter
+- You think you can change the world for the better
+- You play an instrument
+- You want English spelling to be easier
+- You agree with the statement, “What does not kill you makes you stronger”
+- You are nervous about leaving school
+- You know how to light a fire without firelighters
+- You know what you want to do after leaving school
+- You think there is alien life
+- You eat at least two pieces of fruit a day
+- You know the names of your great-grandparents
+- You know a story about your great-grandparents
+- You eat a vegetable every day
+- You know what a Walkman is
+- You own a vinyl or cassette tape
+- You get hangry (angry because you are hungry)
+- You have ridden a motorbike
+- You have owned a fish
+- You can train a dog to sit
+- You have ever gone skydiving
+- Someone improved your day recently
+- You have a party trick
+- You think humans will ever live on Mars
+- You think we could be inside a simulation
+- You have ever stayed up all night without sleep
+- You made a new friend this year
+- You have something from the day you were born
+- You think computers will have consciousness one day (singularity)
+- You have a mentor
+- You have gone horse riding
+- You have gone white water rafting
+- Someone in the classroom has done something nice for you this week
+- You had fun over the weekend
+- You know another language
+- You have a part-time job
+- You like swimming in the ocean
+- You have been on TV, radio, or in the newspaper
+- You read from a book at least twice a week
+- You have completed a jigsaw puzzle in the last year, month, or week
+- You have learned a new word recently
+- You have seen a river flood
+- You have seen lightning strike the ground
+- You listen to music every day
+- You have operated a remote control car
+- You know how to change a light bulb
+- You have built something (e.g. chair, birdhouse)
+- You have had the hiccups
+- You have operated a drone
+- You enjoy aeroplane food
+- You have ever been completely lost
+- You have screamed on a theme park ride
+- You have got the giggles at an inappropriate moment
+- You have a favourite book, movie, or TV show
+- You love clowns
+- You enjoy reading poetry
+- You have written a book, poem, or song
+- You have stayed up all night before
+- You are scared of clowns
+- You want to work in the health system
+- You can spin a basketball on your finger
+- You wear slippers at home
+- You would like to work in the music industry
+- You still have a teddy bear or toy from when you were young
+- Your birthday is on a special day (e.g. Christmas, New Year’s Eve)
+- You like building things
+- You want to have lots of money in the future
+- You would like to work alone, in a team, or with animals
+- You love playing sports
+- You have been outside your comfort zone recently
+- You have been treated unfairly recently
+- You have treated someone unfairly recently
+- You love watching sports
+- You like working with people
+- You think there is a planet just like ours, but everyone has blue hair
+- You hate the smell of hand sanitiser
+- You get scared when it is a full moon
+- You think the brain could ever understand itself
+- You can name a state or province in Canada
+- You have a sports trophy at home
+- You have been to the circus
+- You have tried a Pilates class
+- You have been to a garage sale
+- You have organised a garage sale
+- You can do a circus trick
+- You would like to live interstate or overseas at some point
+- You can name an African country
+- You think the school day is too long
+- You think each generation is getting lazier or more productive
+- You can eat really spicy food
+- You enjoy spicy food
+- You drink at least five glasses of water a day
+- You remember your dreams
+- You have a nickname
+- You have given someone a nickname
+- You have been to a house or car auction
+- You like creating art
+- You have a look-alike
+- You have tried a yoga class
+- You have a celebrity look-alike
+- You like comics
+- You can do an ollie on a skateboard
+- You have tried meditation
+- You got a bargain recently
+- You like to listen to podcasts
+- You think the canteen should only serve healthy food
+- You have physical printed albums (e.g. CD or record)
+- You have made bread before
+- You have made a snowman before
+- You have a bank account
+- You are an introvert
+- You are an extrovert
+- You like Lego
+- You have been ice skating
+- You have been sunburnt this year, month, or week
+- You have been in temperatures of 4°C, 2°C, 0°C, -2°C, -4°C, -6°C, -10°C, -20°C, or -40°C
+- You get pocket money
+- You like trains
+- You dream of flying
+- You have a pet that does smelly farts
+- You have been surfing before
+- You have a favourite podcast
+- You know a word from a fake language (e.g. Klingon, Elvish)
+- You know how many countries are in the world
+- You have ever made an animation
+- You have felt excited or angry today
+- You have a favourite colour
+- You have a favourite emoji
+- You have smiled at someone today
+- You often roll your eyes
+- You can count backwards from 100
+- You have been to the top of a skyscraper
+- You get your haircut once a month
+- You can recite the alphabet backwards
+- You have enough space to store all your clothes
+- You have a messy room
+- You use a key or a code to open your front door
+- You follow someone on YouTube, social media, or news and enjoy their content
+- You have been to a gallery during the day
+- You have been to a café or restaurant in the past week
+- You often cannot find your things
+- You have made a promise before
+- You are good at keeping promises
+- You have ever fallen asleep while watching a movie
+- You checked the weather this morning
+- You live on the second floor or higher
+- You find it difficult to fall asleep at night
+- You had a nightmare in the last week
+- You have ever dyed your hair
+- You are scared of heights
+- You are scared of flying
+- You like ball sports
+- You have scored a winning goal or shot
+- You have your own vegetable garden
+- You would like to live overseas in the future
+- You have started a campfire or wood fire
+- You have a favourite board or card game
+- You have ever finished a puzzle
+- You have ridden a bike
+- You always have enough charge on your phone or other device
+- You would like to have no rules
+- You think smoke makes interesting patterns
+- You wear clothes from 1, 2, 3, or 4 years ago
+- You help clean your house
+- You would like to own your own business
+- You have sat around an outdoor wood fire
+- You have grown a fruit or vegetable in a garden
+- You like really loud music
+- You never give up on things
+- You would like to spend more time outside
+- You would like to spend more time with friends
+- You have a signature dish you are known for making
+- You have a favourite meme video
+- You have been to a desert
+- You have been to a wedding
+- You care about something important
+- You enjoy looking through photo albums
+- You have had a photo taken in a photo booth
+- You have seen a kangaroo or snake in the wild
+- You would like to grow your own food in the future
+- You have had a watch tan or sock tan
+- You are looking forward to being older (30+, 60+, 80+, 90+)
+- You would love to go on a grand adventure in your life (travelling)
+- You buy your lunch at least once a week
+- You have a watch that you wear often
+- You can draw a circle that is really round
+- You like to keep your look fresh (e.g. change clothes often)
+- You love learning
+- You would like to work with the government
+- You think children should vote
+- You have a favourite reality TV show
+- You have ever gone scuba diving
+- You have ever stayed in a hostel
+- You have ever gone fishing
+- You have ever hiked a mountain
+- You have ever gone kayaking
+- You have ever stayed in a treehouse
+- You have ever been to a professional sporting event
+- You have ever done something embarrassing
+- You think being successful is more important than having fun
+- You have seen a tiger
+- You know what an aglet is (the plastic tip at the end of a shoelace)
+- You love trains
+- You have a special talent or ability
+- You think people live longer than 1 million seconds (22 million seconds)
+- You think the toilet seat should be left up or down
+- You think food is the most important thing in life
+- You think love is the most important thing in life
+- You like shopping online
+- You have broken a bone
+- You have a trophy at home
+- You have been in a helicopter
+- You think picking your nose and eating it is disgusting
+- You have had something stolen from you
+- You know how to drive
+- You have been to the IMAX theatre
+- You would like aliens to exist

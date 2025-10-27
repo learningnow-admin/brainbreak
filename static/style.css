@@ -185,6 +185,15 @@ button#clear-search:hover {
   margin: auto;
 }
 
+[id="tag_thought experiment"]::before {
+  content: "💭";
+}
+[id="tag_team work"]::before {
+  content: "👥";
+}
+[id="tag_word play"]::before {
+  content: "📝";
+}
 #tag_movement:before {
   content: "🏃‍♂️";
 }
@@ -200,16 +209,18 @@ button#clear-search:hover {
 #tag_fun:before {
   content: "🤓";
 }
-[id="tag_thought experiment"]::before {
-  content: "💭";
-}
-[id="tag_team work"]::before {
-  content: "👥";
-}
 #tag_maths:before {
   content: "📓";
 }
-
+#tag_calming:before {
+  content: "🤫";
+}
+#tag_silent:before {
+  content: "💤";
+}
+#tag_drawing:before {
+  content: "🖊️";
+}
 
 .cryptocontainer {
   display: flex;

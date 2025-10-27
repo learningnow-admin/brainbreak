@@ -1,0 +1,190 @@
+---
+title: "Would you Rather ..."
+date: 2021-03-11
+tags: ["Energising", "Movement"]
+author: learningnow
+---
+
+We’re going to play a game called Would You Rather. Here’s how it works: I’ll read out a question with two choices—for example, “Would you rather be able to fly or be invisible?” One side of the room is for the first option, the other side is for the second. You show your choice by walking to the side that matches your answer. Take a moment to look around and see who chose what.
+
+Items
+- Be able to jump into the future by 10 minutes or 10 years, both for a duration of 2 minutes?
+- Visit the USA or the UK?
+- Watch a soccer or an AFL match?
+- Always have a mullet haircut or a ponytail haircut?
+- Be a high school teacher or a clown?
+- Control animals or be able to see into the future?
+- Live an outstanding life but be forgotten after you die or live a hard life but have a massive legacy?
+- Live in reality for the rest of your life or be in the matrix for the rest of your life?
+- Change your outfit or change your appearance to anything you want within a second?
+- The world operates at night or during the day. You would have night vision.
+- Be covered in feathers or covered in scales?
+- Have an extra arm or an extra leg?
+- Only ever wear green or only ever wear yellow?
+- See everything in black and white or upside down?
+- Find treasure on an island or win a cash prize worth the same amount?
+- Sparkling water or still water?
+- Increased gravity (1.2x Earth’s gravity) or decreased gravity (0.8x Earth’s gravity)?
+- Start off really poor but increase your wealth by 1 percent each year, or start off wealthy (top 1%) and decrease your wealth by 1 percent each year?
+- Have 200 friends that would be happy to help you out or have two amazing friends that would do anything for you and are totally on your wavelength?
+- Have direct access to the internet through your brain or be able to see five minutes into the future?
+- Live in a tree or a cave?
+- Be able to talk to birds or bugs?
+- Sleep really poorly during the night (max of 4 hours) or sleep really well but only during the day?
+- Use chopsticks every day for the rest of your life or use a fork?
+- Visit China or Japan?
+- Be happy but make no contribution to society or suffer a lot but contribute much to society?
+- Have never-ending dandruff or a never-ending runny nose?
+- Go to bed late and get up early or go to bed early and get up early?
+- Go skiing or snowboarding?
+- Work by yourself or in a team?
+- Be able to rock climb really well or swim really well?
+- Frozen yogurt or ice cream?
+- Sailing boat or jet ski?
+- Always receive a guaranteed $5,000 every month for life or take a one-time gamble with a 50% chance to win $5 million but a 50% chance to get nothing?
+- Instantly jump to being 18 years old, skipping the next few years with all the freedoms, or stay your current age and experience everything as you grow into 18?
+- Skip all the struggles in your life, avoiding hardships, but make your life shorter, or experience every challenge?
+- A vegetable garden or a rose garden?
+- Never get sunburnt again or never get bitten by an insect or animal?
+- Meet an alien or a famous person of your choice?
+- Watch a spider spin a web or an ant build a nest?
+- Watch the news every night or not be able to watch it at all?
+- Be known for being funny or for being a good person?
+- Listen only to the start, middle, or end of a song?
+- A fan or an air conditioner for summer?
+- Know the truth but never be able to convince anyone or know what you know and be able to convince anyone of anything?
+- Wear the colour blue or the colour red for the rest of your life?
+- Live underground or in a treehouse?
+- Know the definition of all the words in the dictionary or read people's thoughts?
+- The world be completely fair or stay as it is?
+- Have a fan or an air conditioner on a hot day?
+- Spend the day inside or outside?
+- Be able to sing, dance, or play an instrument really well?
+- The world made from butter, plastic, cheese, or chocolate?
+- Eat a yummy meal or watch a great movie?
+- Grow all your own food (and be really good at it) or get food from shops for free?
+- Have carpet or wooden floors?
+- Have a shower or a bath, but not both?
+- Live in a wooden or brick house?
+- Live in a one-storey or two-storey house?
+- Be a movie star or a TV star?
+- A plastic water bottle or a glass water bottle?
+- Have a large group of friends or a small group of really close friends?
+- Live in a house without doors or a house without seats?
+- Ride a horse to work or drive a motorbike?
+- Be able to draw anything like a photograph or remember anything like a photograph (but not be able to draw well)?
+- Live in a world where magic exists or one where it does not?
+- Eat a sandwich with Vegemite and cheese, Vegemite and honey, or jam and peanut butter?
+- Own an excellent pair of headphones or speakers?
+- Own a motorbike or a car?
+- Have a fridge or a bed, but you cannot have both?
+- Live in a society with no rules or with the current rules?
+- Take risks in life or play it safe?
+- Be a tiger or a gazelle?
+- Receive free frozen meals for life but never be allowed to cook or have the freedom to cook and buy frozen meals as you wish?
+- Own a home cinema, TV, or computer?
+- Go shopping for clothes, food, or electronic devices?
+- Travel by train, airplane, or boat?
+- Adopt a really young pet or an old pet (you must care for it until it dies)?
+- Have a bed, table, or chair everywhere you go?
+- Live in a world where everything is cheap but there is a bad smell or where everything is super expensive but has no smell?
+- Live without air conditioning in summer or without heating in winter?
+- Have to sing instead of speak or dance instead of walk?
+- Have the ability to fly but only at walking speed or teleport anywhere but only once a day?
+- Be really cool or really competent?
+- Have stairs in your house or an elevator?
+- Have a fridge or a bed, but you cannot have both?
+- Go to the sea with goggles, a boogie board, or a surfboard?
+- Have a soft bed or a hard bed?
+- Own a blimp or a hot air balloon?
+- Live in the North Pole or the South Pole?
+- Live on the equator or on one of the Poles?
+- Live by the ocean or by the mountains?
+- Live in a rainforest or a desert?
+- Be an outstanding rock climber or an amazing sailor?
+- Know how the universe started or how it will end?
+- Have a boring career that pays amazingly or a remarkable career that pays poorly?
+- Savoury food or sweet food?
+- Have a special ability (e.g. fly, walk through walls) but not be able to go outside at night, or be just as you are?
+- Be an incredible boxer or dancer?
+- Be a police officer or a firefighter?
+- Wear denim jeans or pants?
+- Ride a motorbike or drive a car for the rest of your life?
+- Have clean water or clean air?
+- Go to the cinema or the theatre?
+- Have perfect pitch or the ability to learn any instrument in a day?
+- Have hyper-focus or lightning-fast processing speed?
+- Go anywhere in the world for one month or to Mars for one month?
+- Only be allowed to listen to podcasts or listen to music?
+- Watch a comedy show or the ballet?
+- Have a comfortable bed or a comfortable couch?
+- Go a whole year with no eyelashes or no eyebrows?
+- Never have junk food again or have junk food for one meal a day?
+- Have a robot make your bed every morning or make your breakfast?
+- Live in the desert or in the rainforest?
+- Have an exoskeleton (e.g. crab) or an endoskeleton (e.g. human)?
+- Have a walk-in wardrobe or a walk-in pantry?
+- Read from a computer screen or from paper?
+- Own a bike or a swimming pool?
+- Have to listen to the same 10 songs on repeat for the rest of your life or be forced to watch the same 5 movies on repeat for the rest of your life?
+- Your hair or your clothes automatically update to the latest fashion?
+- Have only salty or sweet foods?
+- Spend more money on clothes or on food?
+- Be excellent at winning debates but not always be right or always be right but terrible at winning debates?
+- Have a laptop or a mobile phone?
+- Speak every language in the world but let out an unusual little giggle every 30 seconds or know two languages?
+- Have a dog, cat, snake, turtle, or another animal as a pet?
+- Own a gaming console or a smartphone?
+- Be discovered for your talent through a TV show or YouTube (online streaming)?
+- Wear black and white clothes or only coloured clothes for the rest of your life?
+- Be in a surf shop or a skateboarding shop?
+- Own a turtle or a snake?
+- Be excellent at Maths or Science?
+- Be famous for making movies, documentaries, or memes?
+- Wear shorts or pants?
+- Remain as a human being, become a cyborg, or become a robot?
+- Be excellent at beatboxing or singing?
+- Thin socks or thick socks?
+- Have expensive high-quality shoes or sunglasses?
+- It is always morning, afternoon, or evening?
+- Live in an apartment, castle, underground cave, caravan, or a house?
+- Have a time machine or a teleporter?
+- Rather be physically stronger than most people or be able to fly?
+- Rather live in the city or the country?
+- Own a plane or a horse (you cannot sell either and there are no running costs)?
+- Have a pet turtle or a pet frog?
+- Have a pet tiger or a pet elephant?
+- Listen to the radio, watch TV, or play video games?
+- Wear a turtleneck or flares?
+- Always have bad gas or always have a really dry mouth?
+- Already know lots but learn slowly, or know little and learn quickly?
+- Discover a new island or discover a new animal?
+- Be able to fly or swim underwater indefinitely?
+- Tree logs for legs or for hands?
+- See through walls or walk through walls?
+- Have the ability to cry or cry every day for 20 minutes randomly?
+- Read for one hour every day or shoot basketball hoops for an hour every day?
+- Be able to light a fire with your hand or turn water into ice with your hands?
+- Wear a suit or tracksuit pants and hoodie for the rest of your life?
+- Be an astronaut or a submariner (in a submarine)?
+- Learn a new language or learn an instrument?
+- Live in a world without technology or a world without nature?
+- Be the very best in the world at your chosen sport but not remember anyone’s name, or be at a professional level at every sport and remember people’s names?
+- Be able to speak to all the animals in the world or every language in the world?
+- Be able to become invisible or time travel?
+- Have a shaved head or your nose pierced?
+- Have a hook for a hand or a peg for a leg?
+- Have pancakes or waffles?
+- A meat pie or a pastie?
+- Have the ability to:
+- Travel through time
+- Get paid $50 million cash
+- Spend years with your idol
+- Travel for free for a lifetime
+- Be a movie star or a guru?
+- Be a stand-up comedian or a billionaire?
+- Be an NBA WNBA basketball player or a FIFA soccer player?
+- Be a genius musician or a genius mathematician?
+- Have 11 fingers or 11 toes?
+- Be able to climb anything or unlock any door?
+- Have the ability to change your appearance to look like any other human being or transform into any animal?
