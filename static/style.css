@@ -221,6 +221,18 @@ button#clear-search:hover {
 #tag_drawing:before {
   content: "🖊️";
 }
+#tag_touch:before {
+  content: "👏";
+}
+#tag_trivia:before {
+  content: "🤔";
+}
+#tag_outside:before {
+  content: "🏞️";
+}
+#tag_rhythmic:before {
+  content: "🥁";
+}
 
 .cryptocontainer {
   display: flex;
