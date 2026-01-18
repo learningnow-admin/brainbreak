@@ -84,6 +84,11 @@ Use existing tags when possible.
 - **Additional images**: Use two-digit numbering (`silent-chairs-01.webp`)
 - **Linking**: Use absolute paths (`/pix/filename.webp`)
 
+magick image-name.jpg image-name.jpg
+
+Reference to image
+![Example Picture](/pix/example.svg)
+
 ### Author Credit (Optional)
 
 To add your information:
