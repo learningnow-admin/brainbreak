@@ -90,9 +90,11 @@ Reference to image
 ## Manipulating Images
 magick image-name.jpg image-name.webp
 
+convert image-webp -auto-orient -strip image.webp
+
 convert image.webp -rotate -90 image.webp
-
-
+-rotate 90 = clockwise 
+-rotate -90 = counter-clockwise (anti-clockwise) 
 
 
 ### Author Credit (Optional)
