@@ -5,7 +5,7 @@ tags: ["Drawing", "Observation"]
 author: learningnow
 ---
 
-![Blind Artist](/pix/blind-artist.svg)
+![Blind Artist](/pix/blind-artist.webp)
 
 We’re going to play a game called Blind Artist! Here’s how it works:
 
