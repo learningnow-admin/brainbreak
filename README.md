@@ -84,10 +84,14 @@ Use existing tags when possible.
 - **Additional images**: Use two-digit numbering (`silent-chairs-01.webp`)
 - **Linking**: Use absolute paths (`/pix/filename.webp`)
 
-magick image-name.jpg image-name.webp
-
 Reference to image
 ![Example Picture](/pix/example.svg)
+
+## Manipulating Images
+magick image-name.jpg image-name.webp
+
+convert image.webp -rotate -90 image.webp
+
 
 
 
