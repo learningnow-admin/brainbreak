@@ -5,7 +5,7 @@ tags: ["Outside"]
 author: learningnow
 ---
 
-![Kangaroos Vs Crocodiles](/pix/kangaroos-vs-crocodiles.svg)
+![Kangaroos Vs Crocodiles](/pix/kangaroos-vs-crocodiles.webp)
 
 We’re going to play a game called **Kangaroos vs Crocodiles!** Here’s how it works:
 
