@@ -85,7 +85,7 @@ Use existing tags when possible.
 - **Linking**: Use absolute paths (`/pix/filename.webp`)
 
 Reference to image
-![Example Picture](/pix/example.svg)
+![Example Picture](/pix/example.webp)
 
 ## Manipulating Images
 magick image-name.jpg image-name.webp
