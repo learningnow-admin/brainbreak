@@ -1,6 +1,6 @@
 ---
 title: "The Trolley Problem: Surgeon"
-date: 2025-03-11
+date: 2026-02-04
 tags: ["Thought Experiment", "Trolleyology", "Older Students"]
 author: learningnow
 ---

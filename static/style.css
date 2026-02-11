@@ -233,6 +233,12 @@ button#clear-search:hover {
 #tag_rhythmic:before {
   content: "🥁";
 }
+#tag_trolleyology:before {
+  content: "🚃";
+}
+[id="tag_older students"]::before {
+  content: "🔝";
+}
 
 .cryptocontainer {
   display: flex;
