@@ -5,20 +5,10 @@ tags: ["Energising", "Observation"]
 author: learningnow
 ---
 
-We're going to play a game called **Copy Cat**!
+We're going to play a game called Copy Cat! Here's how it works:
 
-### How to Play:
+Everyone stand up and face me. I'm going to do a series of actions -- clapping, waving, jumping, touching my nose -- and you need to **copy exactly** what I do.
 
-1. Everyone stands up and faces the teacher
-2. The teacher performs **actions** -- clapping, waving, jumping, touching their nose, etc.
-3. Everyone must **copy exactly** what the teacher does
-4. **But** there is one forbidden move: **hands on head**
-5. If the teacher puts their **hands on their head**, you must **NOT** copy it
-6. Anyone who copies the hands on head move is **out!**
+**But** there is one move you must **never** copy: **hands on head**. If I put my hands on my head and you copy it, you're **out!**
 
-### Tips:
-
-- Start slow and build up speed to catch people off guard
-- Mix in lots of different moves before sneaking in the hands on head
-- Try faking it -- move your hands upward but touch your shoulders instead to trick people
-- The last person standing wins!
+I'll start slow and speed up, so pay attention. Last person standing wins. Ready? Let's go!

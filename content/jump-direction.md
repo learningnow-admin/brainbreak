@@ -5,27 +5,12 @@ tags: ["Energising", "Observation"]
 author: learningnow
 ---
 
-We're going to play a game called **Jump Direction**!
+We're going to play a game called Jump Direction! Here's how it works:
 
-### Setup:
+Everyone stand up. I'm going to point out the four compass directions in the room -- **North, South, East and West**.
 
-The teacher points out the four compass directions in the room:
-- **North**
-- **South**
-- **East**
-- **West**
+When I call out a direction, you need to **jump to face** that direction as fast as you can. The **last person** to face the correct direction is **out**.
 
-Everyone stands up and faces the teacher.
+Listen carefully -- I might call the same direction twice in a row to catch you off guard, and I'll speed up as we go!
 
-### How to Play:
-
-1. The teacher calls out a direction, e.g. **"North!"**
-2. Everyone must **jump to face** that direction as fast as they can
-3. The **last person** to face the correct direction is **out**
-4. Keep going until there's one person left standing -- they're the winner!
-
-### Tips:
-
-- Call directions quickly to keep the energy up
-- Mix in unexpected switches like calling the same direction twice in a row
-- You can speed up as the game goes on to make it harder
+Last person standing wins. Ready? Let's go!
