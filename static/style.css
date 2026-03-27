@@ -19,7 +19,7 @@ body {
 }
 
 a {
-  color: gold;
+  color: #78be20;
   text-decoration: none;
 }
 
@@ -38,7 +38,7 @@ a {
 }
 
 a:visited {
-  color: darkgoldenrod;
+  color: #4e7d15;
 }
 
 a:hover {
@@ -49,11 +49,12 @@ a:hover {
 h1 {
   border-style: solid;
   border-width: 0px 0px 2px 0px;
+  border-color: #78be20;
   text-align: center;
 }
 
 h2 {
-  color: tomato;
+  color: #78be20;
   text-align: center;
 }
 
@@ -61,6 +62,7 @@ footer {
   text-align: center;
   border-style: solid;
   border-width: 2px 0px 0px 0px;
+  border-color: #78be20;
   padding: 1em;
 }
 
@@ -73,7 +75,7 @@ img {
 
 code {
   overflow-wrap: break-word;
-  color: lime;
+  color: #78be20;
 }
 
 .taglist {
@@ -277,4 +279,11 @@ button#clear-search:hover {
 #site-logo img {
   max-height: 3em;
   display: block;
+  margin-bottom: 0.5em;
+}
+
+nav {
+  border-bottom: 2px solid #78be20;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
 }
