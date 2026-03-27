@@ -276,10 +276,14 @@ button#clear-search:hover {
   display: none;
 }
 
+#site-header {
+  padding: 1em 0 0.75em;
+}
+
 #site-logo img {
-  max-height: 3em;
+  max-height: 4em;
   display: block;
-  margin-bottom: 0.5em;
+  margin: 0;
 }
 
 nav {
