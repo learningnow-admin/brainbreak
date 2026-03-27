@@ -273,3 +273,8 @@ button#clear-search:hover {
 .js-only {
   display: none;
 }
+
+#site-logo img {
+  max-height: 3em;
+  display: block;
+}
