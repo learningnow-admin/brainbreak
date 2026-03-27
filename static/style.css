@@ -277,11 +277,11 @@ button#clear-search:hover {
 }
 
 #site-header {
-  padding: 1em 0 0.75em;
+  padding: 0.75em 0 0.5em;
 }
 
 #site-logo img {
-  max-height: 4em;
+  max-height: 2.5em;
   display: block;
   margin: 0;
 }
