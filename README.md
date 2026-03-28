@@ -87,6 +87,16 @@ Use existing tags when possible.
 Reference to image
 ![Example Picture](/pix/example.webp)
 
+## Running Locally
+
+Requires [Hugo](https://gohugo.io/installation/).
+
+```
+hugo server --noHTTPCache
+```
+
+Then open `http://localhost:1313` in your browser. The `--noHTTPCache` flag ensures CSS and asset changes are picked up immediately.
+
 ## Manipulating Images
 magick image-name.jpg image-name.webp
 

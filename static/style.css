@@ -1,17 +1,17 @@
 body {
-  background: #151515;
+  background: #1a1830;
   color: navajowhite;
   max-width: 850px;
   margin: auto;
   padding: 0 16px;
   margin-bottom: 500px;
-  scrollbar-color: gray #151515;
+  scrollbar-color: gray #1a1830;
   font-family: sans-serif;
 }
 
 ::-webkit-scrollbar {
   width: 0.66vw;
-  background-color: #151515;
+  background-color: #1a1830;
 }
 ::-webkit-scrollbar-thumb {
   background-color: gray;
@@ -19,7 +19,7 @@ body {
 }
 
 a {
-  color: #78be20;
+  color: #8dc63f;
   text-decoration: none;
 }
 
@@ -38,7 +38,7 @@ a {
 }
 
 a:visited {
-  color: #4e7d15;
+  color: #8b87e0;
 }
 
 a:hover {
@@ -49,13 +49,13 @@ a:hover {
 h1 {
   border-style: solid;
   border-width: 0px 0px 2px 0px;
-  border-color: #78be20;
+  border-color: #8dc63f;
   text-align: center;
-  color: #78be20;
+  color: #8dc63f;
 }
 
 h2 {
-  color: #78be20;
+  color: #8dc63f;
   text-align: center;
 }
 
@@ -63,7 +63,7 @@ footer {
   text-align: center;
   border-style: solid;
   border-width: 2px 0px 0px 0px;
-  border-color: #78be20;
+  border-color: #8dc63f;
   padding: 1em;
 }
 
@@ -76,7 +76,7 @@ img {
 
 code {
   overflow-wrap: break-word;
-  color: #78be20;
+  color: #8dc63f;
 }
 
 .taglist {
@@ -294,7 +294,7 @@ button#clear-search:hover {
 }
 
 nav {
-  border-bottom: 2px solid #78be20;
+  border-bottom: 2px solid #8dc63f;
   padding-bottom: 0.5em;
   margin-bottom: 1em;
 }
