@@ -31,14 +31,7 @@
     {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
     <main>
       <header>
-        {{ if .IsHome }}
-        <div class="home-title">
-          <img src="/appicon.svg" alt="Learning Now" class="home-icon">
-          <h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1>
-        </div>
-        {{ else }}
         <h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1>
-        {{ end }}
       </header>
       <article>
         {{ block "main" . }} {{ .Content }} {{ end }} {{ if .Param "nextprev"
