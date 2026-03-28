@@ -51,6 +51,7 @@ h1 {
   border-width: 0px 0px 2px 0px;
   border-color: #78be20;
   text-align: center;
+  color: #78be20;
 }
 
 h2 {
@@ -281,9 +282,9 @@ button#clear-search:hover {
 }
 
 #site-logo img {
-  max-height: 2.5em;
+  max-height: 6em;
   display: block;
-  margin: 0;
+  margin: 0 auto;
 }
 
 nav {
