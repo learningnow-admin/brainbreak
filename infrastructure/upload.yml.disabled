@@ -1,3 +1,6 @@
+# DISABLED: moved out of .github/workflows/ when hosting switched to GitHub Pages
+# (July 2026). Kept here in case we ever deploy to our own server again — to
+# re-enable, move it back to .github/workflows/upload.yml.
 name: CI
 
 # Controls when the action will run.
