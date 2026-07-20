@@ -281,6 +281,18 @@ button#clear-search:hover {
   padding: 0.75em 0 0.5em;
 }
 
+.back-home {
+  font-size: 0.9em;
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.75;
+}
+
+.back-home:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
 .home-title {
   display: flex;
   align-items: center;
